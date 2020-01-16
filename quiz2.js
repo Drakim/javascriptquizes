@@ -14,7 +14,7 @@ const myarr = [
 ];
 
 
-// Task 1: Set all array entires greater than 8 to 8
+// Task 1: Set all array entries greater than 8 to 8
 
 // Task 2: Remove all entries lesser than 4
 
